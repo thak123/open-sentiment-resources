@@ -13,7 +13,9 @@
 |**Political Debate Data**|English|||||
 |**goodFor/badFor Data**|English|||||
 |**OpinionFinder System**|English|||||
+|**AFINN-111**|English|477 general English sentiment words and multi-wordexpressions (MWE)||||
+||||| 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MDcxMjc5OF19
+eyJoaXN0b3J5IjpbODg4ODIzMjM2LDE1NTA3MTI3OThdfQ==
 -->
