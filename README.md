@@ -15,8 +15,11 @@
 |**OpinionFinder System**|English|||||
 |**AFINN-111**|English|||||477 general English sentiment words and multi-wordexpressions (MWE)||
 |**Senti-Foclóir**|Irish|||||||
+
+|**Publicly available resources**|Englis|||[Link](http://www.cs.cornell.edu/home/llee/omsa/omsa.pdf)|||| 
 |**a**|||||||| 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNzU3MTcyOCwxNTUwNzEyNzk4XX0=
+eyJoaXN0b3J5IjpbMjg4NjU3MzEwLDExMTc1NzE3MjgsMTU1MD
+cxMjc5OF19
 -->
