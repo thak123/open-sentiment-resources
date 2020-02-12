@@ -37,7 +37,10 @@ http://sifaka.cs.uiuc.edu/~wang296/Data/
 2.  #### **Google Earth** ([Download](http://sifaka.cs.uiuc.edu/~wang296/Data/Forum/GoogleEarth.tar.gz))
     
 3.  #### **CNET** ([Download](http://times.cs.uiuc.edu/duan9/forums.tar.gz))
+
+## Silver Standard Multilingual Lexicons
+https://sites.google.com/site/datascienceslab/projects/multilingualsentiment
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYxMzY4MzE2LDEzMTg1ODU1NywxMTE3NT
-cxNzI4LDE1NTA3MTI3OThdfQ==
+eyJoaXN0b3J5IjpbLTE5MjIxODk2MTQsNzYxMzY4MzE2LDEzMT
+g1ODU1NywxMTE3NTcxNzI4LDE1NTA3MTI3OThdfQ==
 -->
