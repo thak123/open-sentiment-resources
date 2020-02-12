@@ -38,10 +38,14 @@ http://sifaka.cs.uiuc.edu/~wang296/Data/
     
 3.  #### **CNET** ([Download](http://times.cs.uiuc.edu/duan9/forums.tar.gz))
 
+## Sentiment Lexicons
+https://github.com/opener-project/sentiment-lexicons
+
 ## Silver Standard Multilingual Lexicons
 https://sites.google.com/site/datascienceslab/projects/multilingualsentiment
 - Chen, Y., & Skiena, S. (2014). Building Sentiment Lexicons for All Major Languages. In ACL (2) (pp. 383-389).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc5MTczODYyLDc2MTM2ODMxNiwxMzE4NT
-g1NTcsMTExNzU3MTcyOCwxNTUwNzEyNzk4XX0=
+eyJoaXN0b3J5IjpbMTA2OTUyMzQ4NywyNzkxNzM4NjIsNzYxMz
+Y4MzE2LDEzMTg1ODU1NywxMTE3NTcxNzI4LDE1NTA3MTI3OThd
+fQ==
 -->
