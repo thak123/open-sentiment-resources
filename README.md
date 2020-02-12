@@ -40,7 +40,8 @@ http://sifaka.cs.uiuc.edu/~wang296/Data/
 
 ## Silver Standard Multilingual Lexicons
 https://sites.google.com/site/datascienceslab/projects/multilingualsentiment
+- Chen, Y., & Skiena, S. (2014). Building Sentiment Lexicons for All Major Languages. In ACL (2) (pp. 383-389).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjIxODk2MTQsNzYxMzY4MzE2LDEzMT
-g1ODU1NywxMTE3NTcxNzI4LDE1NTA3MTI3OThdfQ==
+eyJoaXN0b3J5IjpbMjc5MTczODYyLDc2MTM2ODMxNiwxMzE4NT
+g1NTcsMTExNzU3MTcyOCwxNTUwNzEyNzk4XX0=
 -->
