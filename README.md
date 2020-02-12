@@ -16,14 +16,11 @@
 |**AFINN-111**|English|||||477 general English sentiment words and multi-wordexpressions (MWE)||
 |**Senti-Foclóir**|Irish|||||||
 |**More Publicly available resources**|English|||[Link](http://www.cs.cornell.edu/home/llee/omsa/omsa.pdf)|||| 
-http://sifaka.cs.uiuc.edu/~wang296/Data/
-1.  #### **TripAdvisor Data Set** ([JSON](http://sifaka.cs.uiuc.edu/~wang296/Data/LARA/TripAdvisor/TripAdvisorJson.tar.bz2), [Text](http://sifaka.cs.uiuc.edu/~wang296/Data/LARA/TripAdvisor/Review_Texts.zip), [Processed](http://sifaka.cs.uiuc.edu/~wang296/Data/LARA/TripAdvisor/TripAdvisor.tar.gz), [Readme](http://sifaka.cs.uiuc.edu/~wang296/Data/LARA/TripAdvisor/readme.txt))
-    
-2.  #### **Amazon MP3 Data Set** ([Text](http://sifaka.cs.uiuc.edu/~wang296/Data/LARA/Amazon/mp3/amazon_mp3.tar.gz), [Readme](http://sifaka.cs.uiuc.edu/~wang296/Data/LARA/Amazon/mp3/readme.txt))
-    
-3.  #### **Six Categories of Amazon Product Reviews** ([JSON](http://sifaka.cs.uiuc.edu/~wang296/Data/LARA/Amazon/AmazonReviews.zip), [Readme](http://sifaka.cs.uiuc.edu/~wang296/Data/LARA/Amazon/readme.txt))
-4. 
+
+
 |**a**|||||||| 
+
+http://sifaka.cs.uiuc.edu/~wang296/Data/
 
 ### **Review data sets for "Latent Aspect Rating Analysis"**
 
@@ -41,6 +38,6 @@ http://sifaka.cs.uiuc.edu/~wang296/Data/
     
 3.  #### **CNET** ([Download](http://times.cs.uiuc.edu/duan9/forums.tar.gz))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzc2NjA4MTEsMTMxODU4NTU3LDExMT
-c1NzE3MjgsMTU1MDcxMjc5OF19
+eyJoaXN0b3J5IjpbNzYxMzY4MzE2LDEzMTg1ODU1NywxMTE3NT
+cxNzI4LDE1NTA3MTI3OThdfQ==
 -->
