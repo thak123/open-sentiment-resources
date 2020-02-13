@@ -40,12 +40,13 @@ http://sifaka.cs.uiuc.edu/~wang296/Data/
 
 ## Sentiment Lexicons
 https://github.com/opener-project/sentiment-lexicons
+https://analyticsindiamag.com/10-popular-datasets-for-sentiment-analysis/
 
 ## Silver Standard Multilingual Lexicons
 https://sites.google.com/site/datascienceslab/projects/multilingualsentiment
 - Chen, Y., & Skiena, S. (2014). Building Sentiment Lexicons for All Major Languages. In ACL (2) (pp. 383-389).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2OTUyMzQ4NywyNzkxNzM4NjIsNzYxMz
-Y4MzE2LDEzMTg1ODU1NywxMTE3NTcxNzI4LDE1NTA3MTI3OThd
-fQ==
+eyJoaXN0b3J5IjpbMTI0OTQyNzU3NSwxMDY5NTIzNDg3LDI3OT
+E3Mzg2Miw3NjEzNjgzMTYsMTMxODU4NTU3LDExMTc1NzE3Mjgs
+MTU1MDcxMjc5OF19
 -->
