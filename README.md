@@ -3,10 +3,8 @@
 | ------------- |:-------------:| -----:|:-------------:|:-------------:|:-------------:|-------------|-----: |
 | ------------- |Bulgarian| -----:|:-------------:|:-------------:|:-------------:|-------------|-----: |
 | |Croatian |  ||||||
-
 |  **Subjectivity Lexicon**     |Czech  |Lexicon    |               |   [Link](https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0022-FF60-B)         |               |    4626 
 **MPQA Subjectivity Lexicon**        |  English     |Lexicon|  |[Link](http://mpqa.cs.pitt.edu/lexicons/subj_lexicon/)| ||[GNU General Public License](http://www.gnu.org/licenses/gpl.html)|
-| ------------- |:-------------:| -----:|:-------------:|:-------------:|:-------------:|-------------|-----: |
 |**MPQA Opinion Corpus**|English|||||
 |**Subjectivity Lexicon**|English|||||
 |**Subj. Sense Annotations**|English|||||
@@ -49,7 +47,7 @@ https://analyticsindiamag.com/10-popular-datasets-for-sentiment-analysis/
 https://sites.google.com/site/datascienceslab/projects/multilingualsentiment
 - Chen, Y., & Skiena, S. (2014). Building Sentiment Lexicons for All Major Languages. In ACL (2) (pp. 383-389).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNzc5MDgxOCwxMjQ5NDI3NTc1LDEwNj
-k1MjM0ODcsMjc5MTczODYyLDc2MTM2ODMxNiwxMzE4NTg1NTcs
-MTExNzU3MTcyOCwxNTUwNzEyNzk4XX0=
+eyJoaXN0b3J5IjpbNTk4Nzg3NDE4LDEyNDk0Mjc1NzUsMTA2OT
+UyMzQ4NywyNzkxNzM4NjIsNzYxMzY4MzE2LDEzMTg1ODU1Nywx
+MTE3NTcxNzI4LDE1NTA3MTI3OThdfQ==
 -->
