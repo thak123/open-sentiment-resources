@@ -15,17 +15,16 @@
 |**goodFor/badFor Data**|English|||||
 |**OpinionFinder System**|English|||||
 |**AFINN-111**|English|||||477 general English sentiment words and multi-wordexpressions (MWE)||
-|**Senti-Foclóir**|Irish|||||||
 |**More Publicly available resources**|English|||[Link](http://www.cs.cornell.edu/home/llee/omsa/omsa.pdf)|||| 
 | |Danish |  ||||||
 | |Dutch |  ||||||
 | |Estonian |  ||||||
 | |Finnish |  ||||||
 | |French |  ||||||
-|SentiWS |German |  ||[Link](https://github.com/thak123/open-sentiment-resources/tree/master/)|[Paper](http://www.lrec-conf.org/proceedings/lrec2010/pdf/490_Paper.pdf)|1,650 negative and 1,818 positive words words weighted within the interval of[−1; 1] also has  16,406 positive and 16,328 negative word forms||
+|**SentiWS** |German |  ||[Link](https://github.com/thak123/open-sentiment-resources/tree/master/)|[Paper](http://www.lrec-conf.org/proceedings/lrec2010/pdf/490_Paper.pdf)|1,650 negative and 1,818 positive words words weighted within the interval of[−1; 1] also has  16,406 positive and 16,328 negative word forms||
 | |Greek |  ||||||
 | |Hungarian |  ||||||
-| |Irish |  ||||||
+|**Senti-Foclóir**|Irish|||||||
 | |Italian |  ||||||
 | |Latvian |  ||||||
 | |Lithuanian |  ||||||
@@ -37,8 +36,8 @@
 | |Slovenian |  ||||||
 | |Spanish |  ||||||
 | |Swedish |  ||||||
-|Norsentlex |Norwegian |  ||||||
-|NoRec |Norwegian |  ||||||
+|**Norsentlex** |Norwegian |  ||||||
+|**NoRec** |Norwegian |  ||||||
 |**a**|||||| |
 http://sifaka.cs.uiuc.edu/~wang296/Data/
 
@@ -66,8 +65,8 @@ https://analyticsindiamag.com/10-popular-datasets-for-sentiment-analysis/
 https://sites.google.com/site/datascienceslab/projects/multilingualsentiment
 - Chen, Y., & Skiena, S. (2014). Building Sentiment Lexicons for All Major Languages. In ACL (2) (pp. 383-389).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1Mjc0MzMyNiw2NDc0NTI2OTgsLTE5OT
-Q1MjQ1MDAsMTI0OTQyNzU3NSwxMDY5NTIzNDg3LDI3OTE3Mzg2
-Miw3NjEzNjgzMTYsMTMxODU4NTU3LDExMTc1NzE3MjgsMTU1MD
-cxMjc5OF19
+eyJoaXN0b3J5IjpbMTQxMjIzMzI5NSwtNjUyNzQzMzI2LDY0Nz
+Q1MjY5OCwtMTk5NDUyNDUwMCwxMjQ5NDI3NTc1LDEwNjk1MjM0
+ODcsMjc5MTczODYyLDc2MTM2ODMxNiwxMzE4NTg1NTcsMTExNz
+U3MTcyOCwxNTUwNzEyNzk4XX0=
 -->
