@@ -69,6 +69,167 @@ https://analyticsindiamag.com/10-popular-datasets-for-sentiment-analysis/
 
 ## Silver Standard Multilingual Lexicons
 https://sites.google.com/site/datascienceslab/projects/multilingualsentiment
+-   Afrikaans
+    
+-   Albanian
+    
+-   Arabic
+    
+-   Aragonese
+    
+-   Armenian
+    
+-   Azerbaijani
+    
+-   Basque
+    
+-   Belarusian
+    
+-   Bengali
+    
+-   Bosnian
+    
+-   Breton
+    
+-   Bulgarian
+    
+-   Catalan
+    
+-   Chinese
+    
+-   Croatian
+    
+-   Czech
+    
+-   Danish
+    
+-   Dutch
+    
+-   Esperanto
+    
+-   Estonian
+    
+-   Faroese
+    
+-   Finnish
+    
+-   French
+    
+-   Galician
+    
+-   Georgian
+    
+-   German
+    
+-   Greek
+    
+-   Gujarati
+    
+-   Haitian Creole
+    
+-   Hebrew
+    
+-   Hindi
+    
+-   Hungarian
+    
+-   Icelandic
+    
+-   Ido
+    
+-   Indonesian
+    
+-   Interlingua
+    
+-   Irish
+    
+-   Italian
+    
+-   Kannada
+    
+-   Khmer
+    
+-   Kirghiz
+    
+-   Korean
+    
+-   Kurdish
+    
+-   Latin
+    
+-   Latvian
+    
+-   Lithuanian
+    
+-   Luxembourgish
+    
+-   Macedonian
+    
+-   Malay
+    
+-   Maltese
+    
+-   Marathi
+    
+-   Norwegian
+    
+-   Norwegian
+    
+-   Persian
+    
+-   Polish
+    
+-   Portuguese
+    
+-   Romanian
+    
+-   Romansh
+    
+-   Russian
+    
+-   Scottish
+    
+-   Serbian
+    
+-   Slovak
+    
+-   Slovene
+    
+-   Spanish
+    
+-   Swahili
+    
+-   Swedish
+    
+-   Tagalog
+    
+-   Tamil
+    
+-   Telugu
+    
+-   Thai
+    
+-   Turkish
+    
+-   Turkmen
+    
+-   Ukrainian
+    
+-   Urdu
+    
+-   Uzbek
+    
+-   Vietnamese
+    
+-   Volapük
+    
+-   Walloon
+    
+-   Welsh
+    
+-   Western Frisian
+    
+-   Yiddish
 - Chen, Y., & Skiena, S. (2014). Building Sentiment Lexicons for All Major Languages. In ACL (2) (pp. 383-389).
 ## Twitter Resource/Tools
 - ### Sentiment140 dataset with 1.6 million tweets
@@ -82,9 +243,9 @@ https://sites.google.com/site/datascienceslab/projects/multilingualsentiment
 |German |Lemmatizer  | [Link](https://github.com/Liebeck/IWNLP) |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5Mjg2NTQ0LDcyNzk5Njk2LDIwNjIyNT
-Y0NTcsNTY3NzEyMjg1LDk4NTAxNTMyNCwtNTM4MTI5ODM5LC02
-NTI3NDMzMjYsNjQ3NDUyNjk4LC0xOTk0NTI0NTAwLDEyNDk0Mj
-c1NzUsMTA2OTUyMzQ4NywyNzkxNzM4NjIsNzYxMzY4MzE2LDEz
-MTg1ODU1NywxMTE3NTcxNzI4LDE1NTA3MTI3OThdfQ==
+eyJoaXN0b3J5IjpbLTE3MDA4OTAwNjcsNzI3OTk2OTYsMjA2Mj
+I1NjQ1Nyw1Njc3MTIyODUsOTg1MDE1MzI0LC01MzgxMjk4Mzks
+LTY1Mjc0MzMyNiw2NDc0NTI2OTgsLTE5OTQ1MjQ1MDAsMTI0OT
+QyNzU3NSwxMDY5NTIzNDg3LDI3OTE3Mzg2Miw3NjEzNjgzMTYs
+MTMxODU4NTU3LDExMTc1NzE3MjgsMTU1MDcxMjc5OF19
 -->
