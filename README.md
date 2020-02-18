@@ -28,7 +28,7 @@ http://sifaka.cs.uiuc.edu/~wang296/Data/
 2.  #### **Amazon MP3 Data Set** ([Text](http://sifaka.cs.uiuc.edu/~wang296/Data/LARA/Amazon/mp3/amazon_mp3.tar.gz), [Readme](http://sifaka.cs.uiuc.edu/~wang296/Data/LARA/Amazon/mp3/readme.txt))
     
 3.  #### **Six Categories of Amazon Product Reviews** ([JSON](http://sifaka.cs.uiuc.edu/~wang296/Data/LARA/Amazon/AmazonReviews.zip), [Readme](http://sifaka.cs.uiuc.edu/~wang296/Data/LARA/Amazon/readme.txt))
-4. 
+
 ### **Forum data sets for "Online forum mining and analysis"**
 
 1.  #### **Apple Discussion** ([Download](http://sifaka.cs.uiuc.edu/~wang296/Data/Forum/Apples.tar.gz), [Readme](http://sifaka.cs.uiuc.edu/~wang296/Data/Forum/readme.txt))
@@ -45,7 +45,7 @@ https://analyticsindiamag.com/10-popular-datasets-for-sentiment-analysis/
 https://sites.google.com/site/datascienceslab/projects/multilingualsentiment
 - Chen, Y., & Skiena, S. (2014). Building Sentiment Lexicons for All Major Languages. In ACL (2) (pp. 383-389).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NjgxMjEzOCwxMjQ5NDI3NTc1LDEwNj
+eyJoaXN0b3J5IjpbLTEzNDYzMDgwNiwxMjQ5NDI3NTc1LDEwNj
 k1MjM0ODcsMjc5MTczODYyLDc2MTM2ODMxNiwxMzE4NTg1NTcs
 MTExNzU3MTcyOCwxNTUwNzEyNzk4XX0=
 -->
