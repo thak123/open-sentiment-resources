@@ -15,6 +15,7 @@
 |**goodFor/badFor Data**|English|||||
 |**OpinionFinder System**|English|||||
 |**AFINN-111**|English|||||477 general English sentiment words and multi-wordexpressions (MWE)||
+|# Sentiment Labelled Sentences Data Set| English| ||||
 |**More Publicly available resources**|English|||[Link](http://www.cs.cornell.edu/home/llee/omsa/omsa.pdf)|||| 
 | |Danish |  ||||||
 | |Dutch |  ||||||
@@ -80,8 +81,9 @@ https://sites.google.com/site/datascienceslab/projects/multilingualsentiment
 |German |Lemmatizer  | [Link](https://github.com/Liebeck/IWNLP) |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg1MDE1MzI0LC01MzgxMjk4MzksLTY1Mj
-c0MzMyNiw2NDc0NTI2OTgsLTE5OTQ1MjQ1MDAsMTI0OTQyNzU3
-NSwxMDY5NTIzNDg3LDI3OTE3Mzg2Miw3NjEzNjgzMTYsMTMxOD
-U4NTU3LDExMTc1NzE3MjgsMTU1MDcxMjc5OF19
+eyJoaXN0b3J5IjpbNTY3NzEyMjg1LDk4NTAxNTMyNCwtNTM4MT
+I5ODM5LC02NTI3NDMzMjYsNjQ3NDUyNjk4LC0xOTk0NTI0NTAw
+LDEyNDk0Mjc1NzUsMTA2OTUyMzQ4NywyNzkxNzM4NjIsNzYxMz
+Y4MzE2LDEzMTg1ODU1NywxMTE3NTcxNzI4LDE1NTA3MTI3OThd
+fQ==
 -->
