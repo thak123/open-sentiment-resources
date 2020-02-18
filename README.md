@@ -21,9 +21,9 @@
 | |Estonian |  ||||||
 | |Finnish |  ||||||
 | |French |  ||||||
-|**SentiWS** |German |  ||[Link](https://github.com/thak123/open-sentiment-resources/tree/master/)|[Paper](http://www.lrec-conf.org/proceedings/lrec2010/pdf/490_Paper.pdf)|1,650 negative and 1,818 positive words words weighted within the interval of[−1; 1] also has  16,406 positive and 16,328 negative word forms||
-| SB-10k: German Sentiment Corpus|German||||[Link](https://www.spinningbytes.com/resources/germansentiment)|9738 German tweets, each labeled by 3 annotators with “positive”, “negative”, “neutral”, “mixed”, or “unknown”||
-| ## SB-CH: Swiss German Sentiment Corpus|German|Corpus|[Link](https://www.spinningbytes.com/resources/swissgermansentiment)||165’916 German sentences, of which 2799 are labeled by 5 annotators with “positive”, “negative”, “neutral”, “mixed”, or “unknown”.||
+|**SentiWS/SentimentWortschatz** |German |  ||[Link](https://github.com/thak123/open-sentiment-resources/tree/master/)|[Paper](http://www.lrec-conf.org/proceedings/lrec2010/pdf/490_Paper.pdf)|1,650 negative and 1,818 positive words words weighted within the interval of[−1; 1] also has  16,406 positive and 16,328 negative word forms||
+| SB-10k: German Sentiment Corpus|German|||[Link](https://www.spinningbytes.com/resources/germansentiment)|[paper](https://www.aclweb.org/anthology/W17-1106.pdf)|9738 German tweets, each labeled by 3 annotators with “positive”, “negative”, “neutral”, “mixed”, or “unknown”||
+| ## SB-CH: Swiss German Sentiment Corpus|German|Corpus||[Link](https://www.spinningbytes.com/resources/swissgermansentiment)|[Paper](https://www.aclweb.org/anthology/W17-1106.pdf)|165’916 German sentences, of which 2799 are labeled by 5 annotators with “positive”, “negative”, “neutral”, “mixed”, or “unknown”.||
 | |Greek |  ||||||
 | |Hungarian |  ||||||
 |**Senti-Foclóir**|Irish|||||||
@@ -75,8 +75,8 @@ https://sites.google.com/site/datascienceslab/projects/multilingualsentiment
 |German |Lemmatizer  | [Link](https://github.com/Liebeck/IWNLP) |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ1MTgzNzc0LC02NTI3NDMzMjYsNjQ3ND
-UyNjk4LC0xOTk0NTI0NTAwLDEyNDk0Mjc1NzUsMTA2OTUyMzQ4
-NywyNzkxNzM4NjIsNzYxMzY4MzE2LDEzMTg1ODU1NywxMTE3NT
-cxNzI4LDE1NTA3MTI3OThdfQ==
+eyJoaXN0b3J5IjpbLTUzODEyOTgzOSwtNjUyNzQzMzI2LDY0Nz
+Q1MjY5OCwtMTk5NDUyNDUwMCwxMjQ5NDI3NTc1LDEwNjk1MjM0
+ODcsMjc5MTczODYyLDc2MTM2ODMxNiwxMzE4NTg1NTcsMTExNz
+U3MTcyOCwxNTUwNzEyNzk4XX0=
 -->
