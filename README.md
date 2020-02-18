@@ -63,6 +63,8 @@ http://sifaka.cs.uiuc.edu/~wang296/Data/
     
 3.  #### **CNET** ([Download](http://times.cs.uiuc.edu/duan9/forums.tar.gz))
 
+### The Interest Group on German Sentiment Analysis
+- https://sites.google.com/site/iggsahome/downloads
 ## Sentiment Lexicons
 https://github.com/opener-project/sentiment-lexicons
 https://analyticsindiamag.com/10-popular-datasets-for-sentiment-analysis/
@@ -243,9 +245,10 @@ https://sites.google.com/site/datascienceslab/projects/multilingualsentiment
 |German |Lemmatizer  | [Link](https://github.com/Liebeck/IWNLP) |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDA4OTAwNjcsNzI3OTk2OTYsMjA2Mj
-I1NjQ1Nyw1Njc3MTIyODUsOTg1MDE1MzI0LC01MzgxMjk4Mzks
-LTY1Mjc0MzMyNiw2NDc0NTI2OTgsLTE5OTQ1MjQ1MDAsMTI0OT
-QyNzU3NSwxMDY5NTIzNDg3LDI3OTE3Mzg2Miw3NjEzNjgzMTYs
-MTMxODU4NTU3LDExMTc1NzE3MjgsMTU1MDcxMjc5OF19
+eyJoaXN0b3J5IjpbLTIwNDMyNDM4MTksLTE3MDA4OTAwNjcsNz
+I3OTk2OTYsMjA2MjI1NjQ1Nyw1Njc3MTIyODUsOTg1MDE1MzI0
+LC01MzgxMjk4MzksLTY1Mjc0MzMyNiw2NDc0NTI2OTgsLTE5OT
+Q1MjQ1MDAsMTI0OTQyNzU3NSwxMDY5NTIzNDg3LDI3OTE3Mzg2
+Miw3NjEzNjgzMTYsMTMxODU4NTU3LDExMTc1NzE3MjgsMTU1MD
+cxMjc5OF19
 -->
