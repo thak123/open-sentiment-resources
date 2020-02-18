@@ -17,9 +17,7 @@
 |**AFINN-111**|English|||||477 general English sentiment words and multi-wordexpressions (MWE)||
 |**Senti-Foclóir**|Irish|||||||
 |**More Publicly available resources**|English|||[Link](http://www.cs.cornell.edu/home/llee/omsa/omsa.pdf)|||| 
-
-
-|**a**|||||||| 
+|**a**|||||| |
 
 http://sifaka.cs.uiuc.edu/~wang296/Data/
 
@@ -47,7 +45,7 @@ https://analyticsindiamag.com/10-popular-datasets-for-sentiment-analysis/
 https://sites.google.com/site/datascienceslab/projects/multilingualsentiment
 - Chen, Y., & Skiena, S. (2014). Building Sentiment Lexicons for All Major Languages. In ACL (2) (pp. 383-389).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk4Nzg3NDE4LDEyNDk0Mjc1NzUsMTA2OT
-UyMzQ4NywyNzkxNzM4NjIsNzYxMzY4MzE2LDEzMTg1ODU1Nywx
-MTE3NTcxNzI4LDE1NTA3MTI3OThdfQ==
+eyJoaXN0b3J5IjpbMTE4NjgxMjEzOCwxMjQ5NDI3NTc1LDEwNj
+k1MjM0ODcsMjc5MTczODYyLDc2MTM2ODMxNiwxMzE4NTg1NTcs
+MTExNzU3MTcyOCwxNTUwNzEyNzk4XX0=
 -->
