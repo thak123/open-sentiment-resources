@@ -68,11 +68,11 @@ https://sites.google.com/site/datascienceslab/projects/multilingualsentiment
 ## Language Tools
 |Language|Tool  | Link|
 |--|--|--|
-|  |  |  |
+|German |Lemmatizer  | [Link](https://github.com/Liebeck/IWNLP) |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAwMjQxMzQwLC02NTI3NDMzMjYsNjQ3ND
-UyNjk4LC0xOTk0NTI0NTAwLDEyNDk0Mjc1NzUsMTA2OTUyMzQ4
-NywyNzkxNzM4NjIsNzYxMzY4MzE2LDEzMTg1ODU1NywxMTE3NT
-cxNzI4LDE1NTA3MTI3OThdfQ==
+eyJoaXN0b3J5IjpbMjAxODY3MTg0MSwtNjUyNzQzMzI2LDY0Nz
+Q1MjY5OCwtMTk5NDUyNDUwMCwxMjQ5NDI3NTc1LDEwNjk1MjM0
+ODcsMjc5MTczODYyLDc2MTM2ODMxNiwxMzE4NTg1NTcsMTExNz
+U3MTcyOCwxNTUwNzEyNzk4XX0=
 -->
