@@ -68,15 +68,20 @@ https://analyticsindiamag.com/10-popular-datasets-for-sentiment-analysis/
 ## Silver Standard Multilingual Lexicons
 https://sites.google.com/site/datascienceslab/projects/multilingualsentiment
 - Chen, Y., & Skiena, S. (2014). Building Sentiment Lexicons for All Major Languages. In ACL (2) (pp. 383-389).
-
+## Twitter Resource/Tools
+- ### Sentiment140 dataset with 1.6 million tweets
+	- Lang : English only
+	- contains 1,600,000 tweets extracted using the twitter api . The tweets have been annotated (0 = negative, 4 = positive) and they can be used to detect sentiment
+	- https://www.kaggle.com/kazanova/sentiment140
+- 
 ## Language Tools
 |Language|Tool  | Link|
 |--|--|--|
 |German |Lemmatizer  | [Link](https://github.com/Liebeck/IWNLP) |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzODEyOTgzOSwtNjUyNzQzMzI2LDY0Nz
-Q1MjY5OCwtMTk5NDUyNDUwMCwxMjQ5NDI3NTc1LDEwNjk1MjM0
-ODcsMjc5MTczODYyLDc2MTM2ODMxNiwxMzE4NTg1NTcsMTExNz
-U3MTcyOCwxNTUwNzEyNzk4XX0=
+eyJoaXN0b3J5IjpbOTg1MDE1MzI0LC01MzgxMjk4MzksLTY1Mj
+c0MzMyNiw2NDc0NTI2OTgsLTE5OTQ1MjQ1MDAsMTI0OTQyNzU3
+NSwxMDY5NTIzNDg3LDI3OTE3Mzg2Miw3NjEzNjgzMTYsMTMxOD
+U4NTU3LDExMTc1NzE3MjgsMTU1MDcxMjc5OF19
 -->
