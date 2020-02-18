@@ -38,7 +38,7 @@
 | |Spanish |  ||||||
 | |Swedish |  ||||||
 |Norsentlex |Norwegian |  ||||||
-|Norsentlex |Norwegian |  ||||||
+|NoRec |Norwegian |  ||||||
 |**a**|||||| |
 http://sifaka.cs.uiuc.edu/~wang296/Data/
 
@@ -66,7 +66,7 @@ https://analyticsindiamag.com/10-popular-datasets-for-sentiment-analysis/
 https://sites.google.com/site/datascienceslab/projects/multilingualsentiment
 - Chen, Y., & Skiena, S. (2014). Building Sentiment Lexicons for All Major Languages. In ACL (2) (pp. 383-389).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDExNDgwODI1LDEyNDk0Mjc1NzUsMTA2OT
-UyMzQ4NywyNzkxNzM4NjIsNzYxMzY4MzE2LDEzMTg1ODU1Nywx
-MTE3NTcxNzI4LDE1NTA3MTI3OThdfQ==
+eyJoaXN0b3J5IjpbLTE5OTQ1MjQ1MDAsMTI0OTQyNzU3NSwxMD
+Y5NTIzNDg3LDI3OTE3Mzg2Miw3NjEzNjgzMTYsMTMxODU4NTU3
+LDExMTc1NzE3MjgsMTU1MDcxMjc5OF19
 -->
