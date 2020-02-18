@@ -15,7 +15,7 @@
 |**goodFor/badFor Data**|English|||||
 |**OpinionFinder System**|English|||||
 |**AFINN-111**|English|||||477 general English sentiment words and multi-wordexpressions (MWE)||
-|# Sentiment Labelled Sentences Data Set| English| ||[Link](https://www.kaggle.com/marklvl/sentiment-labelled-sentences-data-set)||Amazon Yelp IMDB|
+|# Sentiment Labelled Sentences Data Set| English| ||[Link](https://www.kaggle.com/marklvl/sentiment-labelled-sentences-data-set)||Amazon Yelp IMDB Score is either 1 (for positive) or 0 (for negative)|
 |**More Publicly available resources**|English|||[Link](http://www.cs.cornell.edu/home/llee/omsa/omsa.pdf)|||| 
 | |Danish |  ||||||
 | |Dutch |  ||||||
@@ -81,9 +81,9 @@ https://sites.google.com/site/datascienceslab/projects/multilingualsentiment
 |German |Lemmatizer  | [Link](https://github.com/Liebeck/IWNLP) |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MjI1NjQ1Nyw1Njc3MTIyODUsOTg1MD
-E1MzI0LC01MzgxMjk4MzksLTY1Mjc0MzMyNiw2NDc0NTI2OTgs
-LTE5OTQ1MjQ1MDAsMTI0OTQyNzU3NSwxMDY5NTIzNDg3LDI3OT
-E3Mzg2Miw3NjEzNjgzMTYsMTMxODU4NTU3LDExMTc1NzE3Mjgs
-MTU1MDcxMjc5OF19
+eyJoaXN0b3J5IjpbNzI3OTk2OTYsMjA2MjI1NjQ1Nyw1Njc3MT
+IyODUsOTg1MDE1MzI0LC01MzgxMjk4MzksLTY1Mjc0MzMyNiw2
+NDc0NTI2OTgsLTE5OTQ1MjQ1MDAsMTI0OTQyNzU3NSwxMDY5NT
+IzNDg3LDI3OTE3Mzg2Miw3NjEzNjgzMTYsMTMxODU4NTU3LDEx
+MTc1NzE3MjgsMTU1MDcxMjc5OF19
 -->
