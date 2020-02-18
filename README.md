@@ -22,7 +22,7 @@
 | |Finnish |  ||||||
 | |French |  ||||||
 |**SentiWS** |German |  ||[Link](https://github.com/thak123/open-sentiment-resources/tree/master/)|[Paper](http://www.lrec-conf.org/proceedings/lrec2010/pdf/490_Paper.pdf)|1,650 negative and 1,818 positive words words weighted within the interval of[−1; 1] also has  16,406 positive and 16,328 negative word forms||
-| SB-10k: German Sentiment Corpus|German||||||
+| SB-10k: German Sentiment Corpus|German||||9738 German tweets, each labeled by 3 annotators with “positive”, “negative”, “neutral”, “mixed”, or “unknown”||
 | |Greek |  ||||||
 | |Hungarian |  ||||||
 |**Senti-Foclóir**|Irish|||||||
@@ -72,8 +72,8 @@ https://sites.google.com/site/datascienceslab/projects/multilingualsentiment
 |German |Lemmatizer  | [Link](https://github.com/Liebeck/IWNLP) |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg0NjgxNjkwLC02NTI3NDMzMjYsNjQ3ND
-UyNjk4LC0xOTk0NTI0NTAwLDEyNDk0Mjc1NzUsMTA2OTUyMzQ4
-NywyNzkxNzM4NjIsNzYxMzY4MzE2LDEzMTg1ODU1NywxMTE3NT
-cxNzI4LDE1NTA3MTI3OThdfQ==
+eyJoaXN0b3J5IjpbLTYyNzYxNTI2MiwtNjUyNzQzMzI2LDY0Nz
+Q1MjY5OCwtMTk5NDUyNDUwMCwxMjQ5NDI3NTc1LDEwNjk1MjM0
+ODcsMjc5MTczODYyLDc2MTM2ODMxNiwxMzE4NTg1NTcsMTExNz
+U3MTcyOCwxNTUwNzEyNzk4XX0=
 -->
