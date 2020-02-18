@@ -22,7 +22,7 @@
 | |Estonian |  ||||||
 | |Finnish |  ||||||
 | |French |  ||||||
-| |German |  ||||||
+|SentiWS |German |  ||||1,650 negative and 1,818 positive words words weighted within the interval of[−1; 1] also has  16,406 positive and 16,328 negative word forms||
 | |Greek |  ||||||
 | |Hungarian |  ||||||
 | |Irish |  ||||||
@@ -66,7 +66,7 @@ https://analyticsindiamag.com/10-popular-datasets-for-sentiment-analysis/
 https://sites.google.com/site/datascienceslab/projects/multilingualsentiment
 - Chen, Y., & Skiena, S. (2014). Building Sentiment Lexicons for All Major Languages. In ACL (2) (pp. 383-389).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTQ1MjQ1MDAsMTI0OTQyNzU3NSwxMD
-Y5NTIzNDg3LDI3OTE3Mzg2Miw3NjEzNjgzMTYsMTMxODU4NTU3
-LDExMTc1NzE3MjgsMTU1MDcxMjc5OF19
+eyJoaXN0b3J5IjpbNjQ3NDUyNjk4LC0xOTk0NTI0NTAwLDEyND
+k0Mjc1NzUsMTA2OTUyMzQ4NywyNzkxNzM4NjIsNzYxMzY4MzE2
+LDEzMTg1ODU1NywxMTE3NTcxNzI4LDE1NTA3MTI3OThdfQ==
 -->
