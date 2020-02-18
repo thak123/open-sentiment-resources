@@ -1,6 +1,7 @@
 
 | Name          | Lang     | Type  |	Task		      | Link		      |	Paper	        | Distribution| License|
 | ------------- |:-------------:| -----:|:-------------:|:-------------:|:-------------:|-------------|-----: |
+| ------------- |Bulgarian| -----:|:-------------:|:-------------:|:-------------:|-------------|-----: |
 |  **Subjectivity Lexicon**     |Czech  |Lexicon    |               |   [Link](https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0022-FF60-B)         |               |    4626 
 **MPQA Subjectivity Lexicon**        |  English     |Lexicon|  |[Link](http://mpqa.cs.pitt.edu/lexicons/subj_lexicon/)| ||[GNU General Public License](http://www.gnu.org/licenses/gpl.html)|
 | ------------- |:-------------:| -----:|:-------------:|:-------------:|:-------------:|-------------|-----: |
@@ -46,7 +47,7 @@ https://analyticsindiamag.com/10-popular-datasets-for-sentiment-analysis/
 https://sites.google.com/site/datascienceslab/projects/multilingualsentiment
 - Chen, Y., & Skiena, S. (2014). Building Sentiment Lexicons for All Major Languages. In ACL (2) (pp. 383-389).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0OTQyNzU3NSwxMDY5NTIzNDg3LDI3OT
-E3Mzg2Miw3NjEzNjgzMTYsMTMxODU4NTU3LDExMTc1NzE3Mjgs
-MTU1MDcxMjc5OF19
+eyJoaXN0b3J5IjpbNDk4MDI3NzYzLDEyNDk0Mjc1NzUsMTA2OT
+UyMzQ4NywyNzkxNzM4NjIsNzYxMzY4MzE2LDEzMTg1ODU1Nywx
+MTE3NTcxNzI4LDE1NTA3MTI3OThdfQ==
 -->
