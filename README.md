@@ -18,6 +18,7 @@
 |Deceptive Opinion Corpus|-|-|=|[link](https://www.kaggle.com/rtatman/deceptive-opinion-spam-corpus)||truthful and deceptive hotel reviews of 20 Chicago hotels||
 |# Sentiment Labelled Sentences Data Set| English| ||[Link](https://www.kaggle.com/marklvl/sentiment-labelled-sentences-data-set)|||Amazon Yelp IMDB Score is either 1 (for positive) or 0 (for negative)|
 |**More Publicly available resources**|English|||[Link](http://www.cs.cornell.edu/home/llee/omsa/omsa.pdf)|||| 
+||English|||[Link](https://github.com/karankishinani/Emotion-detection-from-text-using-PyTorch-and-Federated-Learning/tree/master/datasets)||||
 | |Danish |  ||||||
 | |Dutch |  ||||||
 | |Estonian |  ||||||
@@ -245,10 +246,10 @@ https://sites.google.com/site/datascienceslab/projects/multilingualsentiment
 |German |Lemmatizer  | [Link](https://github.com/Liebeck/IWNLP) |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDMyNDM4MTksLTE3MDA4OTAwNjcsNz
-I3OTk2OTYsMjA2MjI1NjQ1Nyw1Njc3MTIyODUsOTg1MDE1MzI0
-LC01MzgxMjk4MzksLTY1Mjc0MzMyNiw2NDc0NTI2OTgsLTE5OT
-Q1MjQ1MDAsMTI0OTQyNzU3NSwxMDY5NTIzNDg3LDI3OTE3Mzg2
-Miw3NjEzNjgzMTYsMTMxODU4NTU3LDExMTc1NzE3MjgsMTU1MD
-cxMjc5OF19
+eyJoaXN0b3J5IjpbLTE3NTQ4MjQwOTMsLTIwNDMyNDM4MTksLT
+E3MDA4OTAwNjcsNzI3OTk2OTYsMjA2MjI1NjQ1Nyw1Njc3MTIy
+ODUsOTg1MDE1MzI0LC01MzgxMjk4MzksLTY1Mjc0MzMyNiw2ND
+c0NTI2OTgsLTE5OTQ1MjQ1MDAsMTI0OTQyNzU3NSwxMDY5NTIz
+NDg3LDI3OTE3Mzg2Miw3NjEzNjgzMTYsMTMxODU4NTU3LDExMT
+c1NzE3MjgsMTU1MDcxMjc5OF19
 -->
