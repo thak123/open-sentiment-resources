@@ -197,6 +197,7 @@ https://sites.google.com/site/datascienceslab/projects/multilingualsentiment
 -   Slovak
     
 -   Slovene
+	- https://github.com/19Joey85/Sentiment-annotated-news-corpus-and-sentiment-lexicon-in-Slovene/blob/master/Manually%20sentiment%20annotated%20Slovenian%20news%20corpus%20SentiNews%201.0/Annotation_sentence-level_utf8.txt
     
 -   Spanish
     
@@ -246,10 +247,10 @@ https://sites.google.com/site/datascienceslab/projects/multilingualsentiment
 |German |Lemmatizer  | [Link](https://github.com/Liebeck/IWNLP) |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTQ4MjQwOTMsLTIwNDMyNDM4MTksLT
-E3MDA4OTAwNjcsNzI3OTk2OTYsMjA2MjI1NjQ1Nyw1Njc3MTIy
-ODUsOTg1MDE1MzI0LC01MzgxMjk4MzksLTY1Mjc0MzMyNiw2ND
-c0NTI2OTgsLTE5OTQ1MjQ1MDAsMTI0OTQyNzU3NSwxMDY5NTIz
-NDg3LDI3OTE3Mzg2Miw3NjEzNjgzMTYsMTMxODU4NTU3LDExMT
-c1NzE3MjgsMTU1MDcxMjc5OF19
+eyJoaXN0b3J5IjpbLTYxMTUwMzU1NywtMTc1NDgyNDA5MywtMj
+A0MzI0MzgxOSwtMTcwMDg5MDA2Nyw3Mjc5OTY5NiwyMDYyMjU2
+NDU3LDU2NzcxMjI4NSw5ODUwMTUzMjQsLTUzODEyOTgzOSwtNj
+UyNzQzMzI2LDY0NzQ1MjY5OCwtMTk5NDUyNDUwMCwxMjQ5NDI3
+NTc1LDEwNjk1MjM0ODcsMjc5MTczODYyLDc2MTM2ODMxNiwxMz
+E4NTg1NTcsMTExNzU3MTcyOCwxNTUwNzEyNzk4XX0=
 -->
