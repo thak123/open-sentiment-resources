@@ -235,6 +235,9 @@ https://sites.google.com/site/datascienceslab/projects/multilingualsentiment
     
 -   Yiddish
 - Chen, Y., & Skiena, S. (2014). Building Sentiment Lexicons for All Major Languages. In ACL (2) (pp. 383-389).
+## Resources 
+- ## GermanPolarityClues - A Lexical Resource for German Sentiment Analysis http://www.ulliwaltinger.de/sentiment/
+
 ## Twitter Resource/Tools
 - ### Sentiment140 dataset with 1.6 million tweets
 	- Lang : English only
@@ -247,10 +250,11 @@ https://sites.google.com/site/datascienceslab/projects/multilingualsentiment
 |German |Lemmatizer  | [Link](https://github.com/Liebeck/IWNLP) |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMTUwMzU1NywtMTc1NDgyNDA5MywtMj
-A0MzI0MzgxOSwtMTcwMDg5MDA2Nyw3Mjc5OTY5NiwyMDYyMjU2
-NDU3LDU2NzcxMjI4NSw5ODUwMTUzMjQsLTUzODEyOTgzOSwtNj
-UyNzQzMzI2LDY0NzQ1MjY5OCwtMTk5NDUyNDUwMCwxMjQ5NDI3
-NTc1LDEwNjk1MjM0ODcsMjc5MTczODYyLDc2MTM2ODMxNiwxMz
-E4NTg1NTcsMTExNzU3MTcyOCwxNTUwNzEyNzk4XX0=
+eyJoaXN0b3J5IjpbLTY4Nzk3MTIwMSwtNjExNTAzNTU3LC0xNz
+U0ODI0MDkzLC0yMDQzMjQzODE5LC0xNzAwODkwMDY3LDcyNzk5
+Njk2LDIwNjIyNTY0NTcsNTY3NzEyMjg1LDk4NTAxNTMyNCwtNT
+M4MTI5ODM5LC02NTI3NDMzMjYsNjQ3NDUyNjk4LC0xOTk0NTI0
+NTAwLDEyNDk0Mjc1NzUsMTA2OTUyMzQ4NywyNzkxNzM4NjIsNz
+YxMzY4MzE2LDEzMTg1ODU1NywxMTE3NTcxNzI4LDE1NTA3MTI3
+OThdfQ==
 -->
