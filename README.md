@@ -249,6 +249,8 @@ https://sites.google.com/site/datascienceslab/projects/multilingualsentiment
 |--|--|--|
 |German |Lemmatizer  | [Link](https://github.com/Liebeck/IWNLP) |
 # Emotion Analysis
+## Papers
+-A Survey on Sentiment and Emotion Analysis forComputational Literary Studies https://arxiv.org/pdf/1808.03137.pdf
 
 ## Blogs
 - EmotContext blog post[Link](https://habr.com/ru/company/mailru/blog/439850/)
@@ -264,11 +266,11 @@ https://sites.google.com/site/datascienceslab/projects/multilingualsentiment
  
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNTA1MjgzMywtNTg5MzA0NTUsNDE1OT
-Q0ODUwLC02ODc5NzEyMDEsLTYxMTUwMzU1NywtMTc1NDgyNDA5
-MywtMjA0MzI0MzgxOSwtMTcwMDg5MDA2Nyw3Mjc5OTY5NiwyMD
-YyMjU2NDU3LDU2NzcxMjI4NSw5ODUwMTUzMjQsLTUzODEyOTgz
-OSwtNjUyNzQzMzI2LDY0NzQ1MjY5OCwtMTk5NDUyNDUwMCwxMj
-Q5NDI3NTc1LDEwNjk1MjM0ODcsMjc5MTczODYyLDc2MTM2ODMx
-Nl19
+eyJoaXN0b3J5IjpbNzg4NjEzODMyLC01ODkzMDQ1NSw0MTU5ND
+Q4NTAsLTY4Nzk3MTIwMSwtNjExNTAzNTU3LC0xNzU0ODI0MDkz
+LC0yMDQzMjQzODE5LC0xNzAwODkwMDY3LDcyNzk5Njk2LDIwNj
+IyNTY0NTcsNTY3NzEyMjg1LDk4NTAxNTMyNCwtNTM4MTI5ODM5
+LC02NTI3NDMzMjYsNjQ3NDUyNjk4LC0xOTk0NTI0NTAwLDEyND
+k0Mjc1NzUsMTA2OTUyMzQ4NywyNzkxNzM4NjIsNzYxMzY4MzE2
+XX0=
 -->
