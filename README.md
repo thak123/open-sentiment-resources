@@ -249,12 +249,14 @@ https://sites.google.com/site/datascienceslab/projects/multilingualsentiment
 |--|--|--|
 |German |Lemmatizer  | [Link](https://github.com/Liebeck/IWNLP) |
 
+## Blogs
+- EmotContext blog post[Link](https://habr.com/ru/company/mailru/blog/439850/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4Nzk3MTIwMSwtNjExNTAzNTU3LC0xNz
-U0ODI0MDkzLC0yMDQzMjQzODE5LC0xNzAwODkwMDY3LDcyNzk5
-Njk2LDIwNjIyNTY0NTcsNTY3NzEyMjg1LDk4NTAxNTMyNCwtNT
-M4MTI5ODM5LC02NTI3NDMzMjYsNjQ3NDUyNjk4LC0xOTk0NTI0
-NTAwLDEyNDk0Mjc1NzUsMTA2OTUyMzQ4NywyNzkxNzM4NjIsNz
-YxMzY4MzE2LDEzMTg1ODU1NywxMTE3NTcxNzI4LDE1NTA3MTI3
-OThdfQ==
+eyJoaXN0b3J5IjpbNDE1OTQ0ODUwLC02ODc5NzEyMDEsLTYxMT
+UwMzU1NywtMTc1NDgyNDA5MywtMjA0MzI0MzgxOSwtMTcwMDg5
+MDA2Nyw3Mjc5OTY5NiwyMDYyMjU2NDU3LDU2NzcxMjI4NSw5OD
+UwMTUzMjQsLTUzODEyOTgzOSwtNjUyNzQzMzI2LDY0NzQ1MjY5
+OCwtMTk5NDUyNDUwMCwxMjQ5NDI3NTc1LDEwNjk1MjM0ODcsMj
+c5MTczODYyLDc2MTM2ODMxNiwxMzE4NTg1NTcsMTExNzU3MTcy
+OF19
 -->
