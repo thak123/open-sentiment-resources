@@ -253,14 +253,14 @@ https://sites.google.com/site/datascienceslab/projects/multilingualsentiment
 - EmotContext blog post[Link](https://habr.com/ru/company/mailru/blog/439850/)
 - https://www.altoros.com/blog/multimodal-sentiment-analysis-with-tensorflow/
 
-## tw
-https://github.com/shaypal5/awesome-twitter-data
+## Twitter
+- https://github.com/shaypal5/awesome-twitter-data
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzA5MzQ5OCw0MTU5NDQ4NTAsLTY4Nz
-k3MTIwMSwtNjExNTAzNTU3LC0xNzU0ODI0MDkzLC0yMDQzMjQz
-ODE5LC0xNzAwODkwMDY3LDcyNzk5Njk2LDIwNjIyNTY0NTcsNT
-Y3NzEyMjg1LDk4NTAxNTMyNCwtNTM4MTI5ODM5LC02NTI3NDMz
-MjYsNjQ3NDUyNjk4LC0xOTk0NTI0NTAwLDEyNDk0Mjc1NzUsMT
-A2OTUyMzQ4NywyNzkxNzM4NjIsNzYxMzY4MzE2LDEzMTg1ODU1
-N119
+eyJoaXN0b3J5IjpbLTU4OTMwNDU1LDQxNTk0NDg1MCwtNjg3OT
+cxMjAxLC02MTE1MDM1NTcsLTE3NTQ4MjQwOTMsLTIwNDMyNDM4
+MTksLTE3MDA4OTAwNjcsNzI3OTk2OTYsMjA2MjI1NjQ1Nyw1Nj
+c3MTIyODUsOTg1MDE1MzI0LC01MzgxMjk4MzksLTY1Mjc0MzMy
+Niw2NDc0NTI2OTgsLTE5OTQ1MjQ1MDAsMTI0OTQyNzU3NSwxMD
+Y5NTIzNDg3LDI3OTE3Mzg2Miw3NjEzNjgzMTYsMTMxODU4NTU3
+XX0=
 -->
