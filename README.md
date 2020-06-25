@@ -248,6 +248,7 @@ https://sites.google.com/site/datascienceslab/projects/multilingualsentiment
 |Language|Tool  | Link|
 |--|--|--|
 |German |Lemmatizer  | [Link](https://github.com/Liebeck/IWNLP) |
+# Emotion Analysis
 
 ## Blogs
 - EmotContext blog post[Link](https://habr.com/ru/company/mailru/blog/439850/)
@@ -255,12 +256,19 @@ https://sites.google.com/site/datascienceslab/projects/multilingualsentiment
 
 ## Twitter
 - https://github.com/shaypal5/awesome-twitter-data
+
+ ## Github
+ - https://github.com/rohanharode/Drug-Review-Analysis-Work/tree/master/Emotion%20Classification/NRC-Emotion-Lexicon/NRC-Emotion-Lexicon-v0.92
+ - https://github.com/fmplaza/WASSA-2018/tree/master/src
+ - https://github.com/jbkalit/Sentiment-Analysis-Final-Project
+ 
+  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4OTMwNDU1LDQxNTk0NDg1MCwtNjg3OT
-cxMjAxLC02MTE1MDM1NTcsLTE3NTQ4MjQwOTMsLTIwNDMyNDM4
-MTksLTE3MDA4OTAwNjcsNzI3OTk2OTYsMjA2MjI1NjQ1Nyw1Nj
-c3MTIyODUsOTg1MDE1MzI0LC01MzgxMjk4MzksLTY1Mjc0MzMy
-Niw2NDc0NTI2OTgsLTE5OTQ1MjQ1MDAsMTI0OTQyNzU3NSwxMD
-Y5NTIzNDg3LDI3OTE3Mzg2Miw3NjEzNjgzMTYsMTMxODU4NTU3
-XX0=
+eyJoaXN0b3J5IjpbMjExNTA1MjgzMywtNTg5MzA0NTUsNDE1OT
+Q0ODUwLC02ODc5NzEyMDEsLTYxMTUwMzU1NywtMTc1NDgyNDA5
+MywtMjA0MzI0MzgxOSwtMTcwMDg5MDA2Nyw3Mjc5OTY5NiwyMD
+YyMjU2NDU3LDU2NzcxMjI4NSw5ODUwMTUzMjQsLTUzODEyOTgz
+OSwtNjUyNzQzMzI2LDY0NzQ1MjY5OCwtMTk5NDUyNDUwMCwxMj
+Q5NDI3NTc1LDEwNjk1MjM0ODcsMjc5MTczODYyLDc2MTM2ODMx
+Nl19
 -->
