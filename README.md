@@ -263,10 +263,11 @@ https://sites.google.com/site/datascienceslab/projects/multilingualsentiment
  - https://github.com/rohanharode/Drug-Review-Analysis-Work/tree/master/Emotion%20Classification/NRC-Emotion-Lexicon/NRC-Emotion-Lexicon-v0.92
  - https://github.com/fmplaza/WASSA-2018/tree/master/src
  - https://github.com/jbkalit/Sentiment-Analysis-Final-Project
+ - https://www.learndatasci.com/tutorials/sentiment-analysis-reddit-headlines-pythons-nltk/
  
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg4NjEzODMyLC01ODkzMDQ1NSw0MTU5ND
+eyJoaXN0b3J5IjpbODI3MDk0MjQyLC01ODkzMDQ1NSw0MTU5ND
 Q4NTAsLTY4Nzk3MTIwMSwtNjExNTAzNTU3LC0xNzU0ODI0MDkz
 LC0yMDQzMjQzODE5LC0xNzAwODkwMDY3LDcyNzk5Njk2LDIwNj
 IyNTY0NTcsNTY3NzEyMjg1LDk4NTAxNTMyNCwtNTM4MTI5ODM5
