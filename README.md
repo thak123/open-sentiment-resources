@@ -264,14 +264,15 @@ https://sites.google.com/site/datascienceslab/projects/multilingualsentiment
  - https://github.com/fmplaza/WASSA-2018/tree/master/src
  - https://github.com/jbkalit/Sentiment-Analysis-Final-Project
  - https://www.learndatasci.com/tutorials/sentiment-analysis-reddit-headlines-pythons-nltk/
+ - https://habr.com/ru/company/mailru/blog/439850/
  
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI3MDk0MjQyLC01ODkzMDQ1NSw0MTU5ND
-Q4NTAsLTY4Nzk3MTIwMSwtNjExNTAzNTU3LC0xNzU0ODI0MDkz
-LC0yMDQzMjQzODE5LC0xNzAwODkwMDY3LDcyNzk5Njk2LDIwNj
-IyNTY0NTcsNTY3NzEyMjg1LDk4NTAxNTMyNCwtNTM4MTI5ODM5
-LC02NTI3NDMzMjYsNjQ3NDUyNjk4LC0xOTk0NTI0NTAwLDEyND
-k0Mjc1NzUsMTA2OTUyMzQ4NywyNzkxNzM4NjIsNzYxMzY4MzE2
-XX0=
+eyJoaXN0b3J5IjpbLTE1NDQ5NDYzNjMsODI3MDk0MjQyLC01OD
+kzMDQ1NSw0MTU5NDQ4NTAsLTY4Nzk3MTIwMSwtNjExNTAzNTU3
+LC0xNzU0ODI0MDkzLC0yMDQzMjQzODE5LC0xNzAwODkwMDY3LD
+cyNzk5Njk2LDIwNjIyNTY0NTcsNTY3NzEyMjg1LDk4NTAxNTMy
+NCwtNTM4MTI5ODM5LC02NTI3NDMzMjYsNjQ3NDUyNjk4LC0xOT
+k0NTI0NTAwLDEyNDk0Mjc1NzUsMTA2OTUyMzQ4NywyNzkxNzM4
+NjJdfQ==
 -->
