@@ -265,14 +265,18 @@ https://sites.google.com/site/datascienceslab/projects/multilingualsentiment
  - https://github.com/jbkalit/Sentiment-Analysis-Final-Project
  - https://www.learndatasci.com/tutorials/sentiment-analysis-reddit-headlines-pythons-nltk/
  - https://habr.com/ru/company/mailru/blog/439850/
- 
-  
+ - https://github.com/Bhagya4347/Emotion-Analysis-On-Text
+	 - Aim is to make machines understand and detect emotions from any textual input. A text based emotion recognition system which give an overall sentiment of the sentence/paragraph in terms of positivity/negativity and neutrality and determine the overall emotion.
+  - https://github.com/tlkh/text-emotion-classification
+	  - # https://github.com/tlkh/text-emotion-classification#multi-class-emotion-classification-for-short-texts)Multi-class Emotion Classification for Short Texts
+
+**Associating specific emotions to short sequences of texts**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDQ5NDYzNjMsODI3MDk0MjQyLC01OD
-kzMDQ1NSw0MTU5NDQ4NTAsLTY4Nzk3MTIwMSwtNjExNTAzNTU3
-LC0xNzU0ODI0MDkzLC0yMDQzMjQzODE5LC0xNzAwODkwMDY3LD
-cyNzk5Njk2LDIwNjIyNTY0NTcsNTY3NzEyMjg1LDk4NTAxNTMy
-NCwtNTM4MTI5ODM5LC02NTI3NDMzMjYsNjQ3NDUyNjk4LC0xOT
-k0NTI0NTAwLDEyNDk0Mjc1NzUsMTA2OTUyMzQ4NywyNzkxNzM4
-NjJdfQ==
+eyJoaXN0b3J5IjpbLTE3NTExODEzNDYsLTE1NDQ5NDYzNjMsOD
+I3MDk0MjQyLC01ODkzMDQ1NSw0MTU5NDQ4NTAsLTY4Nzk3MTIw
+MSwtNjExNTAzNTU3LC0xNzU0ODI0MDkzLC0yMDQzMjQzODE5LC
+0xNzAwODkwMDY3LDcyNzk5Njk2LDIwNjIyNTY0NTcsNTY3NzEy
+Mjg1LDk4NTAxNTMyNCwtNTM4MTI5ODM5LC02NTI3NDMzMjYsNj
+Q3NDUyNjk4LC0xOTk0NTI0NTAwLDEyNDk0Mjc1NzUsMTA2OTUy
+MzQ4N119
 -->
