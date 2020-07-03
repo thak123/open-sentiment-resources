@@ -273,12 +273,13 @@ https://sites.google.com/site/datascienceslab/projects/multilingualsentiment
 # Timeline Extraction
 ## Github
 - [https://github.com/dbamman/anlp19/blob/master/15.coref/ExtractTimeline.ipynb](https://github.com/dbamman/anlp19/blob/master/15.coref/ExtractTimeline.ipynb)
+- https://github.com/hllorens/otip
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNzUwNTI1MCwtNTk5NDYzMTUwLC0xNT
-Q0OTQ2MzYzLDgyNzA5NDI0MiwtNTg5MzA0NTUsNDE1OTQ0ODUw
-LC02ODc5NzEyMDEsLTYxMTUwMzU1NywtMTc1NDgyNDA5MywtMj
-A0MzI0MzgxOSwtMTcwMDg5MDA2Nyw3Mjc5OTY5NiwyMDYyMjU2
-NDU3LDU2NzcxMjI4NSw5ODUwMTUzMjQsLTUzODEyOTgzOSwtNj
-UyNzQzMzI2LDY0NzQ1MjY5OCwtMTk5NDUyNDUwMCwxMjQ5NDI3
-NTc1XX0=
+eyJoaXN0b3J5IjpbMTQwNTg2NDkwMywtNDM3NTA1MjUwLC01OT
+k0NjMxNTAsLTE1NDQ5NDYzNjMsODI3MDk0MjQyLC01ODkzMDQ1
+NSw0MTU5NDQ4NTAsLTY4Nzk3MTIwMSwtNjExNTAzNTU3LC0xNz
+U0ODI0MDkzLC0yMDQzMjQzODE5LC0xNzAwODkwMDY3LDcyNzk5
+Njk2LDIwNjIyNTY0NTcsNTY3NzEyMjg1LDk4NTAxNTMyNCwtNT
+M4MTI5ODM5LC02NTI3NDMzMjYsNjQ3NDUyNjk4LC0xOTk0NTI0
+NTAwXX0=
 -->
